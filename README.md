@@ -12,7 +12,7 @@
 Xem tại file dataset.csv
 
 ## Giải thích các trường dữ liệu
-Xem tại file.csv
+Xem tại field.csv
 
 ## Code training
-Xem tại file
+Xem tại file Predict Bankrupt by MLP.ipynb
