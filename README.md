@@ -5,11 +5,11 @@ Dataset: Số liệu của 5258 công ty sau khi xử lý và loại bỏ công 
 Model: Sử dụng MLP đơn giản
 Performance: Đạt Accuracy trên tập test khoảng 80%
 
-##Dataset
+## Dataset
 Xem tại file dataset.csv
 
-##Chú giải trường dữ liệu
+## Chú giải trường dữ liệu
 Xem tại file.csv
 
-#Code training
+## Code training
 Xem tại file
