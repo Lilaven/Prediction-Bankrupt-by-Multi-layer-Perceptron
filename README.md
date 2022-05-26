@@ -1,4 +1,4 @@
-# Prediction-Bankrupt-by-machine-learning
+# Prediction-Bankrupt-by-Multi-layer-Perceptron
 
 **Task:** Predict whether the company go bankrupt in this year base on some features of its non-financial and its financial data in the previous four years.
 
